@@ -1,3 +1,5 @@
+package kafkatry.first;
+
 import com.google.gson.JsonParser;
 import org.apache.http.HttpHost;
 import org.apache.http.auth.AuthScope;
