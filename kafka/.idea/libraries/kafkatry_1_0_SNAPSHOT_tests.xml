@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kafkatry-1.0-SNAPSHOT-tests">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/kafkatry-1.0-SNAPSHOT-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
